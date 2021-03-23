@@ -5,6 +5,7 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
 * {
     text-align: center;
+    color: #838383c9;
     font-family: "Arial Black", Gadget, sans-serif"
 }
 
@@ -70,7 +71,7 @@ a, a:visited {
 }
 
 #btn:hover { 
-    background-color: #365a3f;
+    background-color: #ffffff;
 }
 
 #log {
