@@ -26,18 +26,11 @@ body {
     text-align: center;
     margin-top: 47px;
     margin: auto;
-    font-size: 39px
+    font-size: 39px;
+    color: rgb(255, 255, 255)
+
 }
 
-#footer {
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    padding: 10px;
-    background-color: rgba(0, 0, 0, 0.37); 
-    color: white;
-    text-align: center;
 }
 
 .center-align {
@@ -45,11 +38,12 @@ body {
 }
 
 p {
+    font-family: "Arial Black, Gadget, sans-serif";
     font-size: 27px;
 }
 
 a, a:visited {
-    color: rgb(129, 129, 129)
+    color: rgb(255, 255, 255)
 }
 
 #link, #username, #content, #avatar {
@@ -63,6 +57,7 @@ a, a:visited {
 #btn {
     width: 35%;
     font-size: 25px;
+    color: #838383c9;
     margin-top: 25px;
     padding: 17px;
     background-color: #000000;
